@@ -6,27 +6,27 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>https://www.bagusok.me/</loc>
+  <loc>https://bagusok.github.io/</loc>
   <lastmod>2022-02-16T09:17:47+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://www.bagusok.me/projects/</loc>
+  <loc>https://bagusok.github.io/projects/</loc>
   <lastmod>2022-02-16T09:17:47+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.bagusok.me/certificates/</loc>
+  <loc>https://bagusok.github.io/certificates/</loc>
   <lastmod>2022-02-16T09:17:47+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.bagusok.me/skills/</loc>
+  <loc>https://bagusok.github.io/skills/</loc>
   <lastmod>2022-02-16T09:17:47+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.bagusok.me/contact/</loc>
+  <loc>https://bagusok.github.io/contact/</loc>
   <lastmod>2022-02-16T09:17:47+00:00</lastmod>
   <priority>0.80</priority>
 </url>
